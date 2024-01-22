@@ -35,9 +35,6 @@
     "features": {
       "graphql": true
     },
-    "requires": {
-      "db": "hana"
-    },
     "sapbackend": {
       "kind": "odata-v2",
       "model": "srv/external/sapbackend",
